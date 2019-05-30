@@ -7,7 +7,7 @@
     "debug": "~2.6.6",
     "eventemitter2": "~4.1.0",
     "hashmap": "~2.1.0",
-    "noble-device": "1.4.1"
+    "noble-device": "git://github.com/imrepapp/node-metawear.git"
   },
   "devDependencies": {
     "buffer-equal": "^1.0.0",
